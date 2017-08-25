@@ -203,10 +203,10 @@ Vue.use(ElementUI)
 
 **编辑器**
 
-1. Vetur (VSCode): Vue.js语法高亮.
-2. Vue.js (IntelliJ IDEA): : Vue.js语法高亮.
-2. EditorConfig: 编辑器配置, 提示格式问题.
-3. ESLint: JS 代码规范问题检测.
+- Vetur: Vue.js语法高亮.
+- Vue 2 Snippets: 代码片段
+- EditorConfig: 编辑器配置, 提示格式问题.
+- ESLint: JS 代码规范问题检测.
 
 **浏览器**
 
