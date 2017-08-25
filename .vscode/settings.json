@@ -1,3 +1,4 @@
+// https://mubaidr.github.io/blog/Vuejs-VsCode/
 {
   "eslint.enable": true, //Enable eslint
   "eslint.options": {

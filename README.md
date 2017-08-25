@@ -4,6 +4,8 @@
 
 内容: Vue.js 搭建后台管理系统, Vue.js 和第三方依赖结合应用.
 
+**详细**: [Vue.js后台管理系统](doc/Vue.js后台管理系统.md)
+
 - TODO: js-cookie cookie 操作
 - TODO: moment.js 时间格式化工具
 - TODO: ECharts 图表
