@@ -199,7 +199,7 @@ Vue.use(ElementUI)
 <el-button type="primary">Primary Button</el-button>
 ```
 
-## 插件
+## Visual Studio Code 配置
 
 **编辑器**
 
@@ -207,6 +207,36 @@ Vue.use(ElementUI)
 - Vue 2 Snippets: 代码片段
 - EditorConfig: 编辑器配置, 提示格式问题.
 - ESLint: JS 代码规范问题检测.
+
+**配置**
+
+> .vscode/settings.json
+
+```json
+{
+  "eslint.enable": true,
+  "eslint.options": {
+    "extensions": [
+      ".html",
+      ".js",
+      ".vue"
+    ]
+  },
+  "eslint.validate": [{
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ]
+}
+```
 
 **浏览器**
 
