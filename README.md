@@ -2,6 +2,8 @@
 
 > Vue.js 搭建后台管理系统, Vue.js 和第三方依赖结合应用.
 
+## feature
+
 **template 配置(vue-cli)**
 
 ```
@@ -15,6 +17,12 @@
 ? Setup unit tests with Karma + Mocha? Yes
 ? Setup e2e tests with Nightwatch? No
 ```
+
+**plugin**
+
+- vue-router
+- axios
+- TODO: vuex
 
 ## doc
 
