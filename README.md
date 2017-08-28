@@ -1,4 +1,4 @@
-# vue-project
+# Vue.js CMS Template
 
 > Vue.js 搭建后台管理系统, Vue.js 和第三方依赖结合应用.
 
